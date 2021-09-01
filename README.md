@@ -1,7 +1,7 @@
 <h2 align="center"> Hey, I'm Hannah! 👋 </h2>
 <p align="center">
  Pronouns: she/her </br>
- Brooklyn, NYC
+ Brooklyn, NYC </br>
 </p>
 
 👀 I’m interested in data visualization design, data journalism, and exploring cultural trends with data</br>
@@ -10,6 +10,14 @@
 
 ----
 <h4 align="center"> Projects upcoming!</h4>
+
+<p align="center" >
+   Want to talk about them? Let's chat </br>
+ <a href="https://twitter.com/hkwawu">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/hannah-kwawu-145706ba/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 ----
 
@@ -40,18 +48,12 @@
 * [New insights on poverty](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty) by Hans Rosling
     * I've been watching Hans Rosling's videos since I was 10 years old. He was the person who made me interested in how data can be used to tell human-centric stories.
 
-----
-
-_README template adapted from [@moertel](https://github.com/moertel/moertel/blob/main/README.md)._
-<br/>
-
-<a href="https://twitter.com/hkwawu">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hannah-kwawu-145706ba/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
 ------
-[hk-597](https://github.com/hk-597)
+- Icons/badges are made by [Shields.io](https://shields.io/)
+- README template adapted from [@moertel](https://github.com/moertel/moertel/blob/main/README.md)
+
+Credit: [hk-597](https://github.com/hk-597) </br>
+Last Updated: 9.1.21
 <!---
 hk-597/hk-597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
