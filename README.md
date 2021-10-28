@@ -1,8 +1,4 @@
 <h2 align="center"> Hey, I'm Hannah! 👋 </h2>
-<p align="center">
- Pronouns: she/her </br>
- Brooklyn, NYC </br>
-</p>
 
 👀 I’m interested in data visualization design, data journalism, and exploring cultural trends with data</br>
 🏋️ Recently got into weightlifting #BigLiftsandBigData </br>
